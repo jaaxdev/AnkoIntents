@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AnkoIntents</string>
+    <string name="app_name" translatable="false">AnkoIntents</string>
+    <string name="saludo">Hola</string>
 </resources>
